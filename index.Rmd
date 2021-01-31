@@ -1,5 +1,5 @@
 ---
-title: "Pedro Iraburu's CV"
+title: "Belen García's CV"
 author: Pedro Iraburu
 date: "`r Sys.Date()`"
 output:
@@ -26,7 +26,7 @@ library(tidyverse)
 using_googlesheets <- TRUE
 
 # Copied URL from the sheet
-positions_sheet_loc <- "https://docs.google.com/spreadsheets/d/1R1vU59U_SohWENOIAlgyDbYPHmiTL_7TmxEuW01Rpmw/edit?usp=sharing"
+positions_sheet_loc <- "https://docs.google.com/spreadsheets/d/1chXpuFbmQN1RVCEk9bEyCMAFyzdxTS_UP4hREY8RUTg/edit#gid=0"
 
 # Is this sheet available for anyone to read? If you're using a private sheet
 # set this to false and go to gather_data.R and run the data loading manually
@@ -71,34 +71,27 @@ Aside
 ================================================================================
 ![logo](foto.jpeg){width=80%}
 
-<i class="fas fa-download"></i> Download this resume in [PDF](https://github.com/piraburu/cv_pim/blob/master/cv.pdf)
-or view online in [html](https://htmlpreview.github.io/?https://github.com/piraburu/cv_pim/blob/master/index.html)
+<i class="fas fa-download"></i> Download this resume in [PDF](https://github.com/Belengarciaav/cv_bgv/blob/master/cv.pdf)
+or view online in [html](https://htmlpreview.github.io/?https://github.com/Belengarciaav/cv_bgv/blob/master/index.html)
 
 
 
 
 Contact info {#contact}
 --------------------------------------------------------------------------------
-<i class="fa fa-envelope"></i> pedro.iraburu@gmail.com <br />
-<i class="fa fa-phone"></i> 0034 671 055 756 <br />
-<i class="fa fa-phone"></i> 0031  687 613 348 <br />
-<i class="fa fa-github"></i> [GitHub: `@`piraburu](https://github.com/piraburu) <br />
+<i class="fa fa-envelope"></i> belengarciaav@gmail.com <br />
+<i class="fa fa-phone"></i> 0034 619 914 013 <br />
+<i class="fa fa-github"></i> [GitHub: `@`Belengarciaav](https://github.com/Belengarciaav) <br />
 
 
-Programming Skills {#skills}
+Complementary Skills {#skills}
 --------------------------------------------------------------------------------
 
-<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_r_icon_130212.png" width="15" height="18"/> `R`
+<img src="https://img.icons8.com/windows/32/000000/project-manager.png" width="15" height="18"/> `Business Critical Thinking`
 
-<img src="https://icon-icons.com/icons2/112/PNG/32/python_18894.png" width="15" height="18"/> `Python`
+<img src="https://img.icons8.com/metro/26/000000/ms-word.png" width="15" height="18"/> `Ofimatic`
 
-<img src="https://img.icons8.com/nolan/64/matlab.png" width="15" height="18"/> `Matlab`
-
-<img src="https://icon-icons.com/icons2/2148/PNG/32/latex_icon_132257.png" width="15" height="18"/> `LaTeX`
-
-<img src="https://icon-icons.com/icons2/1524/PNG/32/markdown_106519.png" width="15" height="18"/> `Markdown`
-
-<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_stata_icon_130148.png" width="15" height="18"/> `Stata`
+<img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_stata_icon_130148.png" width="15" height="18"/> `Statistics`
 
 
 Disclaimer {#disclaimer}
@@ -106,7 +99,7 @@ Disclaimer {#disclaimer}
 
 Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Code available on <i class="fa fa-github"></i>  [GitHub](https://github.com/piraburu/cv_pim/)
+Code available on <i class="fa fa-github"></i>  [GitHub](https://github.com/Belengarciaav/cv_bgv)
 
 Last updated on `r Sys.Date()`.
 
@@ -115,7 +108,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Pedro Iraburu {#title}
+Belen García Villena {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
